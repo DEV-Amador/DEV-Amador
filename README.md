@@ -6,14 +6,14 @@ Me interesa crear páginas web funcionales, adaptables y fáciles de usar. Tengo
 
 ## 🛠️ Tecnologías
 
-![JavaScript](https://img.shields.io/badge/JavaScript- conocimiento-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-conocimiento-3178C6?logo=typescript&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-conocimiento-E34F26?logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/Python-conocimiento-3776AB?logo=python&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-conocimiento-1572B6?logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-conocimiento-00599C?logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-conocimiento-ED8B00?logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-conocimiento-777BB4?logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
 También tengo experiencia con metodologías ágiles (Scrum y Kanban), organización de tareas, colaboración en equipo, resolución de problemas y soporte técnico.
 
