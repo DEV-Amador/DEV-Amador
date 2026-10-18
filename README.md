@@ -63,3 +63,4 @@ Universidad Tecnológica · septiembre de 2023–agosto de 2025
 ##  Contacto
 
 - Correo: [fgamdel2004@gmail.com](mailto:fgamdel2004@gmail.com)
+- https://dev-amador.github.io/CV/
