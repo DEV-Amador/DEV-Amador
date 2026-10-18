@@ -15,7 +15,7 @@ Me interesa crear páginas web funcionales, adaptables y fáciles de usar. Tengo
 ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 
-También tengo experiencia con metodologías ágiles (Scrum y Kanban), organización de tareas, colaboración en equipo, resolución de problemas y soporte técnico.
+También tengo experiencia con metodologías ágiles (Scrum y Kanban), organización de tareas, colaboración en equipo, resolución de problemas y soporte técnico. He asumido el liderazgo de equipo en proyectos, apoyando la coordinación, la búsqueda de soluciones eficientes y la revisión del código.
 
 ##  Experiencia
 
