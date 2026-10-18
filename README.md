@@ -4,7 +4,7 @@
 
 Me interesa crear páginas web funcionales, adaptables y fáciles de usar. Tengo experiencia colaborando en el desarrollo y las pruebas de sitios web, así como en la optimización de su rendimiento y usabilidad. Disfruto aprender, resolver problemas y trabajar en equipo.
 
-## 🛠️ Tecnologías
+##  Tecnologías
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -17,7 +17,7 @@ Me interesa crear páginas web funcionales, adaptables y fáciles de usar. Tengo
 
 También tengo experiencia con metodologías ágiles (Scrum y Kanban), organización de tareas, colaboración en equipo, resolución de problemas y soporte técnico.
 
-## 💼 Experiencia
+##  Experiencia
 
 **Desarrollador de aplicaciones web — Casa Amarilla**
 
@@ -29,7 +29,7 @@ Tulancingo, Hidalgo · mayo–agosto de 2025
 - Optimicé páginas para mejorar su apariencia y usabilidad.
 - Diseñé y desarrollé páginas web adaptables y funcionales.
 
-## 🎓 Formación
+##  Formación
 
 **Licenciatura en Desarrollo y Gestión de Software**
 
@@ -39,19 +39,20 @@ Universidad Tecnológica · septiembre de 2025–abril de 2027 (en curso)
 
 Universidad Tecnológica · septiembre de 2023–agosto de 2025
 
-## 📜 Certificaciones
+##  Certificaciones
 
 - Diseño web adaptativo
 - JavaScript
+- CCNAv7: Introduction to Networks
 - Administración de bases de datos relacionales
 - Administración de bases de datos no relacionales
 - Aspectos básicos de asistencia técnica
 
-## 🌎 Idiomas
+##  Idiomas
 
 - Español: nativo
 - Inglés: intermedio (B1)
 
-## 📫 Contacto
+##  Contacto
 
 - Correo: [fgamdel2004@gmail.com](mailto:fgamdel2004@gmail.com)
