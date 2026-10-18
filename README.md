@@ -22,6 +22,12 @@ Me interesa crear páginas web funcionales, adaptables y fáciles de usar. Tengo
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
 
+## Bases de datos
+
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/-NoSQL-4EA94B)
+
 También tengo experiencia con metodologías ágiles (Scrum y Kanban), organización de tareas, colaboración en equipo, resolución de problemas y soporte técnico. He asumido el liderazgo de equipo en proyectos, apoyando la coordinación, la búsqueda de soluciones eficientes y la revisión del código.
 
 ##  Experiencia
